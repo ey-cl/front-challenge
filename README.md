@@ -6,6 +6,10 @@ En este documento se presentan los requerimientos necesarios para realizar el de
 ## Desafío
 Se requiere re-crear el clásico juego de Buscaminas. El objetivo del juego es despejar un campo de minas sin detonar ninguna.
 
+<p align="center">
+    <img src="./images/buscaminas.png">
+</p>
+
 ## Reglas del juego
 El juego consiste en despejar todas las celdas de un tablero que no oculten una mina.
 
